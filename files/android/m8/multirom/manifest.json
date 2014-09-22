@@ -45,7 +45,7 @@
 						"size": 17596214
 					}
 				],
-                        "name": "m8",
+                        "name": "htc_m8",
                         "ubuntu_touch":
 				{
                                         "req_multirom": "28",
