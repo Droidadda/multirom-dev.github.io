@@ -1,0 +1,56 @@
+{
+	"status": "ok",
+	"date": "2014-09-22",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/multirom-20140922-v28-UNOFFICIAL-m8.zip",
+						"version": "28",
+						"type": "multirom",
+						"size": 3524137,
+						"md5": "17d0ca51d6fc1b105f37f781de9ebb9c"
+					},
+					{
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/twrp_multirom_20140922_m8.img",
+						"version": "20140922",
+						"type": "recovery",
+						"size": 17197056,
+						"md5": "6ee1495c9cd4d2d7249207b3f6aade68"
+					},
+					{
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/twrp_multirom_20140922_m8.img",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1570015,
+						"md5": "6a9410ce4f124399eefad2dee7fee2df"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/ElementalX-m8-1.04-GPE.zip",
+						"version": "ElementalX-1.04-GPE",
+						"md5": "ba166589aaa8d63a81b24778ff3c7b5b",
+						"type": "kernel",
+						"size": 16691559
+					},
+					{
+						"extra": {"releases":["4.4.3"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/ElementalX-m8-1.06-Sense.zip",
+						"version": "ElementalX-1.06-Sense",
+						"md5": "3f8a7ff92903e33ee5094b2aedf213d7",
+						"type": "kernel",
+						"size": 17596214
+					}
+				],
+                        "name": "m8",
+                        "ubuntu_touch":
+				{
+                                        "req_multirom": "28",
+                                        "req_recovery": "20140922"
+				}
+			}
+		]
+}
