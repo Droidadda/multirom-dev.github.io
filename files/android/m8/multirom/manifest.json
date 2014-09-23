@@ -30,6 +30,14 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/Stock-m8-GPE-insecure.zip",
+						"version": "Stock-GPE-insecure",
+						"md5": "10de79d1fd7bbda452577be801f5eb43",
+						"type": "kernel",
+						"size": 7408958
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/ElementalX-m8-1.04-GPE.zip",
 						"version": "ElementalX-1.04-GPE",
 						"md5": "ba166589aaa8d63a81b24778ff3c7b5b",
