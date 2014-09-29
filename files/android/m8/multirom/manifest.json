@@ -57,7 +57,7 @@
                         "ubuntu_touch":
 				{
                                         "req_multirom": "28",
-                                        "req_recovery": "mrom20140925-01"
+                                        "req_recovery": "mrom20140929-01"
 				}
 			}
 		]
