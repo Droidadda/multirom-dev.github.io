@@ -15,11 +15,11 @@
 						"md5": "16b769ffbb9a3bd5b2d0f2dbced1a40a"
 					},
 					{
-						"url": "http://kobayashimaru.x64.me/MultiROM/recovery/TWRP_multirom_m8_20140928-01.img",
-						"version": "mrom20140928-01",
+						"url": "http://kobayashimaru.x64.me/MultiROM/recovery/TWRP_multirom_m8_20140929-01.img",
+						"version": "mrom20140929-01",
 						"type": "recovery",
 						"size": 16533504,
-						"md5": "2bdbf9ba355d78e31241b87b85e5af94"
+						"md5": "73b2bfca1f288eafd2e4f4f94f76b1a1"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/multirom_uninstaller.zip",
