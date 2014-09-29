@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://kobayashimaru.x64.me/MultiROM/installer/multirom-20140926-v28-UNOFFICIAL-m8.zip",
+						"url": "http://kobayashimaru.x64.me/MultiROM/installer/multirom-20140928-v28-UNOFFICIAL-m8.zip",
 						"version": "28",
 						"type": "multirom",
-						"size": 3528914,
-						"md5": "5a0717250153d0a5ffd5adef94a5379f"
+						"size": 3528865,
+						"md5": "16b769ffbb9a3bd5b2d0f2dbced1a40a"
 					},
 					{
-						"url": "http://kobayashimaru.x64.me/MultiROM/recovery/TWRP_multirom_m8_20140925-01.img",
-						"version": "mrom20140925-01",
+						"url": "http://kobayashimaru.x64.me/MultiROM/recovery/TWRP_multirom_m8_20140928-01.img",
+						"version": "mrom20140928-01",
 						"type": "recovery",
-						"size": 16531456,
-						"md5": "f947facc0ebaa693260d78c9e2bf8680"
+						"size": 16533504,
+						"md5": "2bdbf9ba355d78e31241b87b85e5af94"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/multirom_uninstaller.zip",
