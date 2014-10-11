@@ -8,14 +8,14 @@
 			{"files":
 				[
 					{
-						"url": "https://s.basketbuild.com/dl/devs?dl=Captain_Throwback/One%20(M8)/MultiROM/installer/multirom-20140928-v28-UNOFFICIAL-m8.zip",
+						"url": "http://kobayashimaru.x64.me/MultiROM/installer/multirom-20140928-v28-UNOFFICIAL-m8.zip",
 						"version": "28",
 						"type": "multirom",
 						"size": 3528865,
 						"md5": "16b769ffbb9a3bd5b2d0f2dbced1a40a"
 					},
 					{
-						"url": "https://s.basketbuild.com/dl/devs?dl=Captain_Throwback/One%20(M8)/MultiROM/recovery/TWRP_multirom_m8_20141001-02.img",
+						"url": "http://kobayashimaru.x64.me/MultiROM/recovery/TWRP_multirom_m8_20141001-02.img",
 						"version": "mrom20141001-02",
 						"type": "recovery",
 						"size": 16533504,
@@ -38,7 +38,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://s.basketbuild.com/dl/devs?dl=Captain_Throwback/One%20(M8)/ALL/Kernel/ElementalX-m8-1.08-GPE_AnyKernel_CPTB.zip",
+						"url": "http://kobayashimaru.x64.me/MultiROM/kernels/ElementalX-m8-1.08-GPE_AnyKernel_CPTB.zip",
 						"version": "ElementalX-m8-1.08-GPE",
 						"md5": "274ec92c293e179a4f5f2360e95a869d",
 						"type": "kernel",
@@ -46,7 +46,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.3"]},
-						"url": "https://s.basketbuild.com/dl/devs?dl=Captain_Throwback/One%20(M8)/ALL/Kernel/ElementalX-m8-1.08-Sense_AnyKernel_CPTB.zip",
+						"url": "http://kobayashimaru.x64.me/MultiROM/kernels/ElementalX-m8-1.08-Sense_AnyKernel_CPTB.zip",
 						"version": "ElementalX-m8-1.08-Sense",
 						"md5": "44ac679cee66599db7902ea7eff78eda",
 						"type": "kernel",
