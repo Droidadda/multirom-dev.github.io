@@ -8,11 +8,11 @@
 			{"files":
 				[
 					{
-						"url": "http://kobayashimaru.x64.me/MultiROM/installer/multirom-20140928-v28-UNOFFICIAL-m8.zip",
+						"url": "http://kobayashimaru.x64.me/MultiROM/installer/multirom-20141016-v28-UNOFFICIAL-m8.zip",
 						"version": "28",
 						"type": "multirom",
-						"size": 3528865,
-						"md5": "16b769ffbb9a3bd5b2d0f2dbced1a40a"
+						"size": 3577327,
+						"md5": "7117162978195cbf5d1b8b099befceba"
 					},
 					{
 						"url": "http://kobayashimaru.x64.me/MultiROM/recovery/TWRP_multirom_m8_20141001-02.img",
