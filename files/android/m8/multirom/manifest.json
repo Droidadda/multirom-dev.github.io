@@ -8,11 +8,11 @@
 			{"files":
 				[
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20141017-v28-UNOFFICIAL-m8.zip",
-						"version": "28",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20141104-v29-UNOFFICIAL-m8.zip",
+						"version": "29",
 						"type": "multirom",
-						"size": 3577198,
-						"md5": "376a611a63f13efa5d6232c7b71983ed"
+						"size": 3577485,
+						"md5": "eed289d1e91ededdcaf92fbeac3f4226"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20141103-01.img",
@@ -27,6 +27,14 @@
 						"type": "uninstaller",
 						"size": 1570015,
 						"md5": "6a9410ce4f124399eefad2dee7fee2df"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock_2.1.0_M8_kernel_CPTB.zip",
+						"version": "BeyondStock-v2.1.0-Sense",
+						"md5": "89a461cee31379678e03b952667f5b7f",
+						"type": "kernel",
+						"size": 18716865
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
