@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20141104-v29-UNOFFICIAL-m8.zip",
-						"version": "29",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20141202-v30-UNOFFICIAL-m8.zip",
+						"version": "30",
 						"type": "multirom",
-						"size": 3577485,
-						"md5": "eed289d1e91ededdcaf92fbeac3f4226"
+						"size": 3577735,
+						"md5": "46d907680882c60292c9603aa06aa292"
 					},
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20141103-01.img",
-						"version": "mrom20141103-01",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20141204-01.img",
+						"version": "mrom20141204-01",
 						"type": "recovery",
-						"size": 17410048,
-						"md5": "dfa873881e4efa14b4f9352b2c69d56c"
+						"size": 17911808,
+						"md5": "96d4efef7e0353a3d60383231a040100"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/uninstaller/multirom_uninstaller.zip",
@@ -35,6 +35,22 @@
 						"md5": "89a461cee31379678e03b952667f5b7f",
 						"type": "kernel",
 						"size": 18716865
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/ElementalX-m8-2.00-Sense_AnyKernel_CPTB.zip",
+						"version": "ElementalX-m8-2.00-Sense",
+						"md5": "9654e2cb215f3796f3fc9db7cf81c6c7",
+						"type": "kernel",
+						"size": 17586719
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/CM11_boot.img_2014-11-13_MultiROM.zip",
+						"version": "CM11-boot-20141113",
+						"md5": "0f22254ff9958052eebaf0cd7e709488",
+						"type": "kernel",
+						"size": 8766039
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
