@@ -29,6 +29,14 @@
 						"md5": "6a9410ce4f124399eefad2dee7fee2df"
 					},
 					{
+						"extra": {"releases":["5.0.1"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/Stock-m8-GPE-5.0.1.zip",
+						"version": "StockGPE-20150109",
+						"md5": "81a351dfb3bfc9024ad90100a29e6ce5",
+						"type": "kernel",
+						"size": 8118618
+					},
+					{
 						"extra": {"releases":["5.0.2"]},
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/CM12_boot.img_2015-01-07_kexec.zip",
 						"version": "CM12-nightly-20150107",
