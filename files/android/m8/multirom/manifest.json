@@ -8,11 +8,11 @@
 			{"files":
 				[
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20141202-v30-UNOFFICIAL-m8.zip",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20150114-v30-UNOFFICIAL-m8.zip",
 						"version": "30",
 						"type": "multirom",
-						"size": 3577735,
-						"md5": "46d907680882c60292c9603aa06aa292"
+						"size": 3907482,
+						"md5": "3b771e0229fced57774c204b2a81feee"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150114-01.img",
