@@ -15,11 +15,11 @@
 						"md5": "3b771e0229fced57774c204b2a81feee"
 					},
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150115-01.img",
-						"version": "mrom20150115-01",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150126-01.img",
+						"version": "mrom20150126-01",
 						"type": "recovery",
-						"size": 18077696,
-						"md5": "df62362c0c3c15b4e2fa6aeebceb5bbc"
+						"size": 18079744,
+						"md5": "404a8377e361a3281db94902fb84b938"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/uninstaller/multirom_uninstaller.zip",
