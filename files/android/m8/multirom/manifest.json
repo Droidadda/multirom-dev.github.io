@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20150114-v30-UNOFFICIAL-m8.zip",
-						"version": "30",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20150303-v31-UNOFFICIAL-m8.zip",
+						"version": "31",
 						"type": "multirom",
-						"size": 3907482,
-						"md5": "3b771e0229fced57774c204b2a81feee"
+						"size": 3914439,
+						"md5": "c060124b6f3a8155c9acac7c605cd79b"
 					},
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150126-01.img",
-						"version": "mrom20150126-01",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150303-01.img",
+						"version": "mrom20150303-01",
 						"type": "recovery",
-						"size": 18079744,
-						"md5": "404a8377e361a3281db94902fb84b938"
+						"size": 18882560,
+						"md5": "0be9aba84da7696730b8c4adb76d1acf"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/uninstaller/multirom_uninstaller.zip",
