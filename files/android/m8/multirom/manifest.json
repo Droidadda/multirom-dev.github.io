@@ -29,68 +29,12 @@
 						"md5": "6a9410ce4f124399eefad2dee7fee2df"
 					},
 					{
-						"extra": {"releases":["5.0.1"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/Stock-m8-GPE-5.0.1.zip",
-						"version": "StockGPE-20150109",
-						"md5": "81a351dfb3bfc9024ad90100a29e6ce5",
+						"extra": {"releases":["5.x"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock-M8-Kernel_v4.0.0-Lollipop_CPTB.zip",
+						"version": "BeyondStock v4.0.0",
+						"md5": "b5d24a1a376feac17199789680c46120",
 						"type": "kernel",
-						"size": 8118618
-					},
-					{
-						"extra": {"releases":["5.0.2"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/CM12_boot.img_2015-01-07_kexec.zip",
-						"version": "CM12-nightly-20150107",
-						"md5": "8a928ee1ce3b9a6558f7ce0dc9f13beb",
-						"type": "kernel",
-						"size": 8983866
-					},
-					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock_2.1.0_M8_kernel_CPTB.zip",
-						"version": "BeyondStock-v2.1.0-Sense",
-						"md5": "89a461cee31379678e03b952667f5b7f",
-						"type": "kernel",
-						"size": 18716865
-					},
-					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/ElementalX-m8-2.00-Sense_AnyKernel_CPTB.zip",
-						"version": "ElementalX-m8-2.00-Sense",
-						"md5": "9654e2cb215f3796f3fc9db7cf81c6c7",
-						"type": "kernel",
-						"size": 17586719
-					},
-					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/CM11_boot.img_2014-11-13_MultiROM.zip",
-						"version": "CM11-boot-20141113",
-						"md5": "0f22254ff9958052eebaf0cd7e709488",
-						"type": "kernel",
-						"size": 8766039
-					},
-					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/Stock-m8-GPE-insecure.zip",
-						"version": "Stock-GPE-insecure",
-						"md5": "10de79d1fd7bbda452577be801f5eb43",
-						"type": "kernel",
-						"size": 7408958
-					},
-					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/ElementalX-m8-1.08-GPE_AnyKernel_CPTB.zip",
-						"version": "ElementalX-m8-1.08-GPE",
-						"md5": "274ec92c293e179a4f5f2360e95a869d",
-						"type": "kernel",
-						"size": 16843995
-					},
-					{
-						"extra": {"releases":["4.4.3"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/ElementalX-m8-1.08-Sense_AnyKernel_CPTB.zip",
-						"version": "ElementalX-m8-1.08-Sense",
-						"md5": "44ac679cee66599db7902ea7eff78eda",
-						"type": "kernel",
-						"size": 17349911
+						"size": 8291237
 					}
 				],
                         "name": "htc_m8",
