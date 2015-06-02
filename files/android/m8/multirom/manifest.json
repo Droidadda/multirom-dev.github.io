@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20150307-v31-UNOFFICIAL-m8.zip",
-						"version": "31",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/installer/multirom-20150601-v32-UNOFFICIAL-m8.zip",
+						"version": "32",
 						"type": "multirom",
-						"size": 3914461,
-						"md5": "e8c228d93743dfe78cde2db9b25b50bb"
+						"size": 5577628,
+						"md5": "b50bebc43c24155a89766f2314590377"
 					},
 					{
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150520-01.img",
-						"version": "mrom20150520-01",
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/recovery/TWRP_multirom_m8_20150602-01.img",
+						"version": "mrom20150602-01",
 						"type": "recovery",
-						"size": 18794496,
-						"md5": "9496e117f617218a2809242dd24ba721"
+						"size": 18802688,
+						"md5": "ad40430d36a41da5560db7974c5ec4bf"
 					},
 					{
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/uninstaller/multirom_uninstaller.zip",
@@ -32,9 +32,9 @@
 						"extra": {"releases":["5.x"]},
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock-M8-Kernel_v4.0.0-Lollipop_CPTB.zip",
 						"version": "BeyondStock v4.0.0",
-						"md5": "b5d24a1a376feac17199789680c46120",
+						"md5": "2fbdba4eb5c0f839986817ad8b17826d",
 						"type": "kernel",
-						"size": 8291237
+						"size": 6661118
 					}
 				],
                         "name": "htc_m8",
