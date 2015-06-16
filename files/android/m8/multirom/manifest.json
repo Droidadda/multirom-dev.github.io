@@ -32,9 +32,9 @@
 						"extra": {"releases":["5.x"]},
 						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock-M8-Kernel_v4.1.0-Lollipop_CPTB.zip",
 						"version": "BeyondStock v4.1.0",
-						"md5": "3b8bfa6089bbee6603bfab93cd2ae4a4",
+						"md5": "01ee7810c103f8350f8871c87473243b",
 						"type": "kernel",
-						"size": 6661118
+						"size": 6676123
 					}
 				],
                         "name": "htc_m8",
