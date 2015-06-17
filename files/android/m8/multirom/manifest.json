@@ -29,9 +29,17 @@
 						"md5": "6a9410ce4f124399eefad2dee7fee2df"
 					},
 					{
-						"extra": {"releases":["5.x"]},
-						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock-M8-Kernel_v4.1.0-Lollipop_CPTB.zip",
-						"version": "BeyondStock v4.1.0",
+						"extra": {"releases":["5.0.x"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock-M8-Sense-Kernel_v4.0.0-Lollipop_CPTB.zip",
+						"version": "BeyondStock-Sense-5.0.2",
+						"md5": "2fbdba4eb5c0f839986817ad8b17826d",
+						"type": "kernel",
+						"size": 6661118
+					},
+					{
+						"extra": {"releases":["5.1"]},
+						"url": "http://alexandru-g.github.io/files/android/m8/multirom/kernels/BeyondStock-M8-GPE-Kernel_v4.1.0-Lollipop_CPTB.zip",
+						"version": "BeyondStock-GPE-5.1",
 						"md5": "01ee7810c103f8350f8871c87473243b",
 						"type": "kernel",
 						"size": 6676123
