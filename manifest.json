@@ -8,25 +8,25 @@
 			{"files":
 				[
 					{
-						"url": "http://multirom-m8.github.io/installer/multirom-20150922-v32-UNOFFICIAL-m8.zip",
+						"url": "http://multirom-m8.github.io/installer/multirom-20150923-v32-UNOFFICIAL-m8.zip",
 						"version": "32",
 						"type": "multirom",
-						"size": 5584921,
-						"md5": "2d052e34e8a1c3471f01a2b31729bd67"
+						"size": 5585063,
+						"md5": "d590075b216a70d4ad215f18513c6dc3"
 					},
 					{
-						"url": "http://multirom-m8.github.io/recovery/TWRP_multirom_m8_20150922-01.img",
-						"version": "mrom20150922-01",
+						"url": "http://multirom-m8.github.io/recovery/TWRP_multirom_m8_20150923-01.img",
+						"version": "mrom20150923-01",
 						"type": "recovery",
-						"size": 20414464,
-						"md5": "9e31bc2fc791b57b6d0fd85ac02d7a27"
+						"size": 20410368,
+						"md5": "911b2ccee9f399a1752554820485f45a"
 					},
 					{
 						"url": "http://multirom-m8.github.io/uninstaller/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
-						"size": 1622953,
-						"md5": "b63a32d24a6552572250e52f2045a11b"
+						"size": 1622948,
+						"md5": "6023a79c7f29d863e1d62b2469e6b174"
 					},
 					{
 						"extra": {"releases":["5.0.x"]},
