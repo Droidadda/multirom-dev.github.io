@@ -8,21 +8,21 @@
 			{"files":
 				[
 					{
-						"url": "http://multirom-m8.github.io/installer/multirom-20150923-v32-UNOFFICIAL-m8.zip",
+						"url": "http://multirom-htc.github.io/installer/multirom-20150923-v32-UNOFFICIAL-m8.zip",
 						"version": "32",
 						"type": "multirom",
 						"size": 5585063,
 						"md5": "d590075b216a70d4ad215f18513c6dc3"
 					},
 					{
-						"url": "http://multirom-m8.github.io/recovery/TWRP_multirom_m8_20150923-01.img",
+						"url": "http://multirom-htc.github.io/recovery/TWRP_multirom_m8_20150923-01.img",
 						"version": "mrom20150923-01",
 						"type": "recovery",
 						"size": 20410368,
 						"md5": "911b2ccee9f399a1752554820485f45a"
 					},
 					{
-						"url": "http://multirom-m8.github.io/uninstaller/multirom_uninstaller.zip",
+						"url": "http://multirom-htc.github.io/uninstaller/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1622948,
@@ -30,7 +30,7 @@
 					},
 					{
 						"extra": {"releases":["5.0.x"]},
-						"url": "http://multirom-m8.github.io/kernels/BeyondStock-M8-Sense-Kernel_v4.0.0-Lollipop_CPTB.zip",
+						"url": "http://multirom-htc.github.io/kernels/BeyondStock-M8-Sense-Kernel_v4.0.0-Lollipop_CPTB.zip",
 						"version": "BeyondStock-Sense-5.0.2",
 						"md5": "2fbdba4eb5c0f839986817ad8b17826d",
 						"type": "kernel",
@@ -38,7 +38,7 @@
 					},
 					{
 						"extra": {"releases":["5.1"]},
-						"url": "http://multirom-m8.github.io/kernels/BeyondStock-M8-GPE-Kernel_v4.1.0-Lollipop_CPTB.zip",
+						"url": "http://multirom-htc.github.io/kernels/BeyondStock-M8-GPE-Kernel_v4.1.0-Lollipop_CPTB.zip",
 						"version": "BeyondStock-GPE-5.1",
 						"md5": "01ee7810c103f8350f8871c87473243b",
 						"type": "kernel",
