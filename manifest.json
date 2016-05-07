@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://multirom-htc.github.io/installer/multirom-20160506-v33-UNOFFICIAL-m8.zip",
+						"url": "http://multirom-htc.github.io/installer/multirom-20160507-v33-UNOFFICIAL-m8.zip",
 						"version": "33",
 						"type": "multirom",
 						"size": 5500845,
 						"md5": "1d3dfafdb93a0fbb124b9583811d1c4a"
 					},
 					{
-						"url": "http://multirom-htc.github.io/recovery/TWRP_3.0.2-0_multirom_m8_20160506-01.img",
-						"version": "mrom20160506-01",
+						"url": "http://multirom-htc.github.io/recovery/TWRP_3.0.2-0_multirom_m8_20160507-01.img",
+						"version": "mrom20160507-01",
 						"type": "recovery",
-						"size": 20084736,
-						"md5": "caa48f1acd8aca8b442818bf756739f6"
+						"size": 20099072,
+						"md5": "ae0a7c7e23f2ebb54cac4cb824b4e730"
 					},
 					{
 						"url": "http://multirom-htc.github.io/uninstaller/multirom_uninstaller.zip",
