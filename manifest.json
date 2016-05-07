@@ -12,14 +12,14 @@
 						"version": "33",
 						"type": "multirom",
 						"size": 5500845,
-						"md5": "1d3dfafdb93a0fbb124b9583811d1c4a"
+						"md5": "e0111707123e015cd6572cd3e00cd171"
 					},
 					{
-						"url": "http://multirom-htc.github.io/recovery/TWRP_3.0.2-0_multirom_m8_20160507-01.img",
-						"version": "mrom20160507-01",
+						"url": "http://multirom-htc.github.io/recovery/TWRP_3.0.2-0_multirom_m8_20160507-02.img",
+						"version": "mrom20160507-02",
 						"type": "recovery",
-						"size": 20099072,
-						"md5": "ae0a7c7e23f2ebb54cac4cb824b4e730"
+						"size": 20097024,
+						"md5": "82e1f7eefd00ddf4db6e9d49c51c79bf"
 					},
 					{
 						"url": "http://multirom-htc.github.io/uninstaller/multirom_uninstaller.zip",
